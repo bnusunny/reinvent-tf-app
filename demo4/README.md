@@ -32,3 +32,5 @@ You can test your application on your AWS development account. Using File Watche
 ```bash
 watchexec -w ../src/app terraform apply --auto-approve
 ```
+
+
